@@ -57,9 +57,27 @@ body{
     border-left: 20px #b7c8dd solid;
 }
 
-.media{
+.media_r{
     float: left;
-    width: 100%;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.media_p{
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.media_b{
+    float: left;
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.media_s{
+    float: right;
+    width: 50%;
     box-sizing: border-box;
 }
 
