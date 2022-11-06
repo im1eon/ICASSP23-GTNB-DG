@@ -59,7 +59,7 @@ body{
 
 .media{
     float: left;
-    width: 70%;
+    width: 100%;
     box-sizing: border-box;
 }
 
