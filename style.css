@@ -16,9 +16,14 @@ body{
     border-bottom: 20px #0c488c solid;
 }
 
+.subtitle-box {
+    font-family: Arial, Helvetica, sans-serif;
+    border-bottom: 20px;
+    border-top: 20px
+}
+
 .title-box img{
     border-top: 20px #0c488c solid;
-
     position: relative;
 }
 
