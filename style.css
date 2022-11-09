@@ -1,12 +1,11 @@
 body{
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 .container{
-    width: 100%;
-    margin: 0;
-    padding: 0;
-    height: 100%;
+    width: 100%
 }
 
 .title-box {
@@ -22,7 +21,37 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     color: #0c488c;
     border-bottom: 20px;
-    border-top: 20px
+    border-top: 20px;
+}
+
+.subtitle-box-2 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0c488c;
+    border-bottom: 20px;
+    border-top: 20px;
+    margin-bottom: -0.5cm;
+    margin-top: 2cm
+}
+
+
+.abstract {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #000000;
+    border-bottom: 20px;
+    line-height: 150%;
+    border-top: 20px;
+    width: 95%;
+}
+
+.footer {
+    margin-top: 20px;
+    background-color: #0c488c;
+    color: #ffffff;
+}
+
+.footer-logo {
+    padding: 16px;
+    text-align: center;
 }
 
 .title-box img{
@@ -73,13 +102,13 @@ body{
 
 .media_p{
     float: left;
-    width: 50%;
+    width: 40%;
     box-sizing: border-box;
 }
 
 .media_b{
-    float: right;
-    width: 50%;
+    float: left;
+    width: 40%;
     box-sizing: border-box;
 }
 
@@ -90,8 +119,8 @@ body{
 }
 
 .notion{
-    float: right;
-    width: 29%;
+    float: left;
+    width: 20%;
     box-sizing: border-box;
 }
 
